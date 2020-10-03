@@ -9,4 +9,6 @@ build_level: "mid"
 
 full details and description of project
 
+![assembled trigger](images/trigger_assembled.jpg)
+
 Excepturi maxime ipsam mollitia reprehenderit accusamus explicabo eligendi necessitatibus soluta! Ipsam mollitia alias temporibus dicta.
